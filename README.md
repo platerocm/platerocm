@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking UI/UX on [Panda Goals](hello@pandagoals.com)
 
-- 👨‍💻 All of my projects are available at [platerocm.com](platerocm.com)
+- 👨‍💻 All of my projects are available at [platerocm.com](https://platerocm.com)
 
 - 📫 How to reach me **hello@pandagoals.com**
 
