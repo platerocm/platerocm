@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/platerocm" target="blank"><img src="https://img.shields.io/twitter/follow/platerocm?logo=twitter&style=for-the-badge" alt="platerocm" /></a> </p>
 
-- 🔭 I’m currently working on [Neoris](https://www.neoris.com/)
+- 🔭 I’m currently working on [Cadoox](http://cadoox.com/)
 
 - 🌱 I’m currently learning **React Native, Vue, Hapi, Sails.js**
 
