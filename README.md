@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cadoox](http://cadoox.com/)
 
-- 🌱 I’m currently learning **React Native, Vue, Hapi, Sails.js**
+- 🌱 I’m currently learning **React Native, Vue, Nest, Sails.js**
 
 - 👯 My main project is [Panda Goals](https://pandagoals.com/)
 
