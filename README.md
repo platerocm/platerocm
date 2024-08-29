@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A Full-Stack developer (React / Typescript / Node / Laravel)</h3>
-
-<p align="left"> <a href="https://twitter.com/platerocm" target="blank"><img src="https://img.shields.io/twitter/follow/platerocm?logo=twitter&style=for-the-badge" alt="platerocm" /></a> </p>
-
-- 🔭 I’m currently working on [Panda Goals](http://pandagoals.com/)
-
-- 🌱 I’m currently learning **React Native, Vue, Nest, Sails.js**
-
-- 👯 My main project is [goal.ar](https://goal.ar/)
-
-- 🤝 I’m looking UI/UX on [Panda Goals](hello@pandagoals.com)
 
 - 👨‍💻 All of my projects are available at [platerocm.com](https://platerocm.com)
 
